@@ -14,7 +14,7 @@ namespace Raspberry_Pi_Dot_Net_Core_Console_Application3
       //hello Pete 2
       static void Main(string[] args)
       {
-        
+        // Hello pete i main
       }
    }
 }
